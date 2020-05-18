@@ -1,0 +1,13 @@
+# raphael-user 10 QKQ1.190825.002 20.5.14 release-keys
+- manufacturer: xiaomi
+- platform: msmnile
+- codename: raphael
+- flavor: raphael-user
+- release: 10
+- id: QKQ1.190825.002
+- incremental: 20.5.14
+- tags: release-keys
+- fingerprint: Xiaomi/raphael/raphael:10/QKQ1.190825.002/20.5.14:user/release-keys
+- brand: Xiaomi
+- branch: raphael-user-10-QKQ1.190825.002-20.5.14-release-keys
+- repo: xiaomi_raphael_dump
