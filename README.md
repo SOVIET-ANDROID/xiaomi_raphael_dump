@@ -1,0 +1,14 @@
+# hentai_raphael-user 11 RQ3A.210705.001 eng.rohanh.20210710.070437 release-keys
+- manufacturer: 
+- platform: msmnile
+- codename: raphael
+- flavor: hentai_raphael-user
+- release: 11
+- id: RQ3A.210705.001
+- incremental: eng.rohanh.20210710.070437
+- tags: release-keys
+- fingerprint: Xiaomi/hentai_raphael/raphael:11/RQ3A.210705.001/rohanhasabe807100702:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: hentai_raphael-user-11-RQ3A.210705.001-eng.rohanh.20210710.070437-release-keys
+- repo: xiaomi_raphael_dump
